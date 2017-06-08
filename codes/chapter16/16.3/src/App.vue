@@ -49,4 +49,8 @@ body {
   width: 100px;
   height: 100px
 }
+
+.form-control {
+  margin: 10px;
+}
 </style>
